@@ -1,17 +1,15 @@
 # Oblig X
 
-OsloMet brukernavn: sXXXXXX
+OsloMet brukernavn: s362081
 
-GitHub brukernavn: 
+GitHub brukernavn: MartinHoffNygaard
 
-GitHub repo URL: 
+GitHub repo URL: https://github.com/DATA1700/oblig-3-MartinHoffNygaard
 
-URL til Heroku app: 
+URL til Heroku app: ---
 
-Fullt navn: 
+Fullt navn: Martin Hoff Nygaard
 
 Kort beskrivelse av applikasjon (5–10 setninger): 
 
-Her skal det legges inn en kort beskrivelse av innleveringen din.
-
-Inkluder også mangler du vet om, antagelser du har gjort og eventuelle kommentarer.
+Applikasjonen fungerer som den skal. Er litt usikker på om det er rikitg å bruke select og option for scrollbar der man skal velge film. Er også ikke noen feilmelding om man ikke velger en film, men virket ikke som man trengte det utifra oppgaveteksten.Hadde ingen store problemer under utførelsen denne gangen. Applikasjonen er ikke deployert på heroku ettersom vi fikk beskjed om at det ikke skulle gjøres denne gangen på grunn av feil med heroku. 

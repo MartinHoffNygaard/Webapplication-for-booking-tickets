@@ -38,8 +38,8 @@ function hentBilletter() {
     });
 }
 function slettBilletter() {
-    $.get("/slett", function (billetter) {
-        skrivUtBilletter(billetter);
+    $.get("/slett", function () {
+        document.getElementById("oversiktBilletter").innerHTML = "";
     });
 }
 
