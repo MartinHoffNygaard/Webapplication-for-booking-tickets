@@ -9,4 +9,4 @@ This is a simple webapplication created with the spring boot framework. The appl
 - Bootstrap
 - jQuery
 
-![Example of the application in use](exampleCinema.png)
+![Example of the application in use](/exampleCinema.PNG)
