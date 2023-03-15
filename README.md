@@ -7,4 +7,4 @@ This is a simple webapplication created with the spring boot framework. The appl
 - Spring Boot
 - HTML
 - Bootstrap
-- JSON 
+- jQuery
